@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, I'm Konstantin 👋
+
+🔭 Freelance iOS and web developer
+
+😄 he/him
+
+Creative developer and architect from Belgium. I build delightful, people-centred and reliable apps for iOS and the web! 
+
+🚀 Learn more about me at https://www.iamkonstantin.eu
 
 <!--
 **kkostov/kkostov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+- 💬 You have a fun
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
