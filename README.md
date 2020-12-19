@@ -6,7 +6,9 @@
 
 I build delightful, people-centred and reliable apps for iOS and the web! 
 
+
 🚀 Learn more about me at https://www.iamkonstantin.eu
+
 💬 Get in touch https://twitter.com/kkostov
 
 <!--
