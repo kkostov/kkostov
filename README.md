@@ -1,6 +1,6 @@
 ### Hello, I'm Konstantin 👋
 
-🔭 Freelance App developer from Belgium 🇪🇺.
+🔭 Independent App developer from Belgium.
 
 😄 he/him
 
