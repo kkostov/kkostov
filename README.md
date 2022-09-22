@@ -1,6 +1,6 @@
 ### Hello, I'm Konstantin 👋
 
-🔭 Independent App developer from Belgium. A long-time human in tech, building delightful, people-centred and reliable apps for iOS, macOS and the web!
+🔭 Independent App developer from Belgium 🇧🇪. A long-time human in tech, building delightful, people-centred and reliable apps for iOS, macOS and the web!
 
 😄 he/him
 
