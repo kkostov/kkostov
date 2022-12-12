@@ -6,7 +6,7 @@
 
 🚀 Learn more about me at https://www.iamkonstantin.eu
 
-💬 Get in touch https://twitter.com/kkostov
+💬 🐘 Get in touch [@konstantin@m.iamkonstantin.eu](https://m.iamkonstantin.eu)
 
 <!--
 **kkostov/kkostov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
