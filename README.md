@@ -4,7 +4,13 @@
 
 A long-time human in tech, building delightful, people-centred and reliable apps for iOS, macOS and the web!
 
+In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK) and other pet projects.
+
 😄 he/him
+
+
+
+#### Contact
 
 🚀 Learn more about me at https://www.iamkonstantin.eu
 
