@@ -1,8 +1,8 @@
 ### Hello, I'm Konstantin 👋
 
-🔭 Independent App developer from Belgium 🇧🇪.
+🔭 Long-time human in tech from Belgium 🇧🇪.
 
-A long-time human in tech, building delightful, people-centred and reliable apps for iOS, macOS and the web!
+I make [FeedbackBulb](https://feedbackbulb.com) 💡
 
 In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK) and other pet projects.
 
