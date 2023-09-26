@@ -14,11 +14,7 @@ In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK) and ot
 
 🚀 Learn more about me at https://www.iamkonstantin.eu
 
-💬 🐘 
-
-* Just for fun [@konstantin@m.iamkonstantin.eu](https://m.iamkonstantin.eu)
-
-* Apps and work [@konstantin@social.headbright.eu](https://social.headbright.eu/@konstantin)
+💬 🐘 [@konstantin@social.headbright.eu](https://social.headbright.eu/@konstantin)
 
 <!--
 **kkostov/kkostov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
