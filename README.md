@@ -4,7 +4,7 @@
 
 I make [FeedbackBulb](https://feedbackbulb.com) 💡
 
-In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK) and other pet projects.
+In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK), [Linked Data Event Streams](https://semiceu.github.io/LinkedDataEventStreams/) and other fun projects.
 
 😄 he/him
 
