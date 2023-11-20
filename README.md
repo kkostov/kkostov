@@ -12,9 +12,11 @@ In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK), tools
 
 #### Contact
 
-🚀 Learn more about me at https://www.iamkonstantin.eu
+📝 [Blog](https://www.iamkonstantin.eu)
 
 💬 🐘 [@konstantin@social.headbright.eu](https://social.headbright.eu/@konstantin)
+
+💼 [LinkedIn](https://www.linkedin.com/in/kkostov/)
 
 <!--
 **kkostov/kkostov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
