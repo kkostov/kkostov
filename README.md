@@ -1,8 +1,8 @@
 ### Hello, I'm Konstantin 👋
 
-🔭 Long-time human in tech from Belgium 🇧🇪.
+🔭 Long-time human in tech from Belgium 🇧🇪, co-founder @ [Headbright Group](https://headbright.eu/)
 
-I make [FeedbackBulb](https://feedbackbulb.com) 💡
+We make [FeedbackBulb](https://feedbackbulb.com) 💡 and other apps.
 
 In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK), tools for [Linked Data Event Streams](https://semiceu.github.io/LinkedDataEventStreams/) and other fun projects.
 
