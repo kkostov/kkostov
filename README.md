@@ -1,13 +1,14 @@
-### Hello, I'm Konstantin 👋
+### Hello, I'm Konstantin 👋 (he/him)
 
-🔭 Long-time human in tech from Belgium 🇧🇪, co-founder @ [Headbright Group](https://headbright.eu/)
+I'm a long-time human in tech from Belgium 🇧🇪, co-founder @ [Headbright Group](https://headbright.eu/)
 
-We make [FeedbackBulb](https://feedbackbulb.com) 💡 and other apps.
+I make infinite loops, apps and tools which are fun or useful or both. 
 
-In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK), [SwiftyFlags](https://flags.swiftythemes.com) tools for [Linked Data Event Streams](https://semiceu.github.io/LinkedDataEventStreams/) and other fun projects.
-
-😄 he/him
-
+- [SwiftyFlags](https://flags.swiftythemes.com)
+- [TootSDK](https://github.com/TootSDK/TootSDK)
+- [FeedbackBulb](https://feedbackbulb.com) 💡
+- [CIBUS](https://www.cibusapp.be)
+- ... 🤫
 
 
 #### Contact
