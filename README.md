@@ -4,7 +4,7 @@
 
 We make [FeedbackBulb](https://feedbackbulb.com) 💡 and other apps.
 
-In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK), tools for [Linked Data Event Streams](https://semiceu.github.io/LinkedDataEventStreams/) and other fun projects.
+In my spare time, I work on [TootSDK](https://github.com/TootSDK/TootSDK), [SwiftyFlags](https://flags.swiftythemes.com) tools for [Linked Data Event Streams](https://semiceu.github.io/LinkedDataEventStreams/) and other fun projects.
 
 😄 he/him
 
