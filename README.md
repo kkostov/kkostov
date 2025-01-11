@@ -1,7 +1,9 @@
 ### Hello, I'm Konstantin 👋 (he/him)
 
+Hi. My name is Konstantin /ˈkɒn.stən.tɪn/. I'm a long-time human in tech from Belgium 🇧🇪 🇪🇺
 
-To learn more about me, you can head over to 📝 [my website](https://www.iamkonstantin.eu).
+
+[Visit my page](https://www.iamkonstantin.eu).
 
 
 <!--
